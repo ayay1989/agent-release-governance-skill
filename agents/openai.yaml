@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Release Governance"
+  short_description: "Govern full/user Agent releases safely"
+  default_prompt: "Use this skill to govern a full/private Agent repo and a user-facing release repo: inspect boundaries, run release gates, triage issues, export the user package, and report what remains."
